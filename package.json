@@ -1,0 +1,24 @@
+{
+  "name": "weather-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "basics": "node basics-waterfall.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanIg/weather-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanIg/weather-bot/issues"
+  },
+  "homepage": "https://github.com/alanIg/weather-bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "node-fetch": "^2.3.0"
+  }
+}
